@@ -85,7 +85,7 @@ class PersonX(BaseImageDataset):
     #
     #     return dataset
 
-    def _process_dir(self, dir_path):
+    def _process_dir(self, dir_path, relabel=False):
 
         data = []
         for img in os.listdir(dir_path):
