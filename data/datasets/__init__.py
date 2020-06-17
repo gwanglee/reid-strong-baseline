@@ -16,6 +16,7 @@ __factory = {
     'dukemtmc': DukeMTMCreID,
     'msmt17': MSMT17,
     'veri': VeRi,
+    'personX': PersonX,
 }
 
 
