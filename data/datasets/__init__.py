@@ -10,6 +10,7 @@ from .msmt17 import MSMT17
 from .veri import VeRi
 from .dataset_loader import ImageDataset
 from .personX import PersonX
+from .personX_spgan import PersonXSpgan
 
 __factory = {
     'market1501': Market1501,
@@ -18,6 +19,7 @@ __factory = {
     'msmt17': MSMT17,
     'veri': VeRi,
     'personX': PersonX,
+    'personX_spgan': PersonXSpgan
 }
 
 
