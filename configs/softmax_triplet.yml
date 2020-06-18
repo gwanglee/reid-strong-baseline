@@ -60,6 +60,6 @@ TEST:
   NECK_FEAT: 'after'
   FEAT_NORM: 'yes'
 
-OUTPUT_DIR: "/content/reid-strong-baseline/output_softmax_triplet_baseline.yml"
+OUTPUT_DIR: "/content/reid-strong-baseline/output_softmax_triplet_baseline"
 
 
